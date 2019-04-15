@@ -1,0 +1,163 @@
+body {
+    background-color: #ffffff;
+    color: #000;
+    font-family: Courier New;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background: url(b4.jpg); 
+
+}
+.header{
+    box-shadow: 0 0 15px 3px;
+    color: #b3d1ff;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 6px;
+
+}
+
+
+.header a {
+    color: #b3d1ff;
+    text-decoration: none;
+   
+}
+.input_area.col-md-12  button {
+    background: white none repeat scroll 0 0;
+    border: 2px solid teal;
+    box-shadow: 0 0 7px 4px teal;
+    color: teal;
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: bold;
+    margin: 15px 0;
+    padding: 6px 12px;
+    text-transform: uppercase;
+}
+.input_area.col-md-12  button:hover {
+    border: 2px solid ForestGreen;
+    box-shadow: 0 0 7px 4px ForestGreen;
+    color: ForestGreen;
+}
+.inp  button{
+    border: 1px solid ForestGreen;
+    box-shadow: 0 0 5px 3px ForestGreen;
+    color: ForestGreen;
+}
+[type="reset"], [type="submit"], button, html [type="button"] {
+    background: #fff none repeat scroll 0 0;
+    border: 2px solid teal;
+    box-shadow: 0 0 7px 4px teal;
+    color: teal;
+    cursor: pointer;
+    margin-right: 6px;
+    padding: 10px 0;
+    font-family: inherit;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+[type="reset"]:hover , [type="submit"]:hover , button:hover , html [type="button"]:hover {
+    border: 2px solid ForestGreen;
+    box-shadow: 0 0 7px 4px ForestGreen;
+    color: ForestGreen;
+}
+
+.input_area.col-md-12 {
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+tbody {
+    background: #fff none repeat scroll 0 0;
+    box-shadow: 0 8px 13px 8px teal;
+}
+.success {
+    background: turquoise none repeat scroll 0 0;
+}
+
+.footer {
+    border-radius: 6px;
+    box-shadow: 0 0 15px 3px;
+    color: teal;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.row {
+    padding: 0;
+}
+
+.btn {
+    line-height: 0.75;
+}
+input {
+    margin: 5px;
+    padding: 5px;
+    border: 1px dashed teal;
+    border-radius: 5px;
+}
+[type="file"] {
+    background: #fff;
+}
+/*
+[type="file"] {
+  margin-left: -10px;
+  border:0px;
+}*/
+.head_page{
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.head_page h2 {
+    font-weight: 800;
+    margin: 22px 0;
+
+    text-shadow: 2px 2px 2px teal;
+}
+.img-user-details {
+    background: #fff none repeat scroll 0 0;
+    box-shadow: 0 2px 15px 5px teal;
+    height: 270px;
+    margin: 0 auto 25px;
+    padding: 7px;
+    width: 270px;
+}
+.submit-data {
+    margin: 12px 0;
+}
+.fixedicon {
+    left: 0;
+    position: fixed;
+    top: 45%;
+    width: 60px;
+}
+.fixedicon img {
+    width: 50px;
+}
+.bg-danger{
+    padding: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: White;
+}
+.bg-submit{
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    color: White;
+    background: teal;
+}
+.txt{
+    font-family: inherit;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: teal;
+    text-shadow: 2px 2px 2px gray;
+
+}
+.pagination{
+    
+
+}
